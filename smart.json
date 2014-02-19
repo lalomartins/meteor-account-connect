@@ -1,0 +1,9 @@
+{
+  "name": "accounts-connect",
+  "description": "Connect meteor accounts (e.g. add facebook/google/twitter to an existing account)",
+  "homepage": "https://github.com/lalomartins/meteor-account-connect",
+  "author": "Lalo Martins <lalo.martins@gmail.com>",
+  "version": "0.1.0",
+  "git": "https://github.com/lalomartins/meteor-account-connect.git",
+  "packages": {}
+}
